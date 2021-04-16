@@ -4,9 +4,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-[Swift] https://img.shields.io/badge/-Swift-05122A?style=plastic&logo=swift
+![Swift] (https://img.shields.io/badge/-Swift-05122A?style=plastic&logo=swift)
 
-[PHP] https://img.shields.io/badge/-PHP-05122A?style=plastic&logo=php
+![PHP] (https://img.shields.io/badge/-PHP-05122A?style=plastic&logo=php)
 
 
 <!--
