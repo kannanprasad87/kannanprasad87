@@ -25,7 +25,10 @@ Myself Kannan Prasad - iOS advocate from 🇮🇳 currently working in 🇬🇧
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kannanprasad87&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" />
 </p>
-###  &nbsp; Find me on
+ 
+
+## Find me on
+
 <p align="center">
 <a href="https://github.com/kannanprasad87" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-05122A?style=plastic&logo=github"/></a>
 <a href="https://www.linkedin.com/in/kannanprasad" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-05122A?&style=plastic&logo=linkedin" /></a>
@@ -35,3 +38,6 @@ Myself Kannan Prasad - iOS advocate from 🇮🇳 currently working in 🇬🇧
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=kannanprasad87"/>
 </p>
+
+
+
