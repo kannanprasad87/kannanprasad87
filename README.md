@@ -4,10 +4,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Swift] (https://img.shields.io/badge/-Swift-05122A?style=plastic&logo=swift)
-
-![PHP] (https://img.shields.io/badge/-PHP-05122A?style=plastic&logo=php)
-
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=plastic&logo=swift)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=plastic&logo=php)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 
 <!--
 **kannanprasad87/kannanprasad87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
