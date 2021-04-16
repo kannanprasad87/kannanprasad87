@@ -19,6 +19,11 @@
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=plastic&logo=jira)
 ![Azure Devops](https://img.shields.io/badge/-Azure%20Devops-05122A?style=plastic&logo=azuredevops)
 
+
+## &#x1f4c8; GitHub Stats
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kannanprasad87&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+
 <!--
 **kannanprasad87/kannanprasad87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
