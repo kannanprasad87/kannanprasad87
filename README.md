@@ -1,8 +1,8 @@
-### Bonjour | Hi | Hola |  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Bonjour ! Hi ! Hola !  
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=kannanprasad87)
+Myself Kannan Prasad - iOS advocate from 🇮🇳 currently working in 🇬🇧 
 
-### 🛠 &nbsp;Tech Stack
+###  🛠 &nbsp;Tech Stack
 
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=plastic&logo=swift)
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=plastic&logo=xcode)
@@ -10,6 +10,7 @@
 ![Cocoapods](https://img.shields.io/badge/-CocoaPods-05122A?style=plastic&logo=cocoapods)
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)
+![Github](https://img.shields.io/badge/-Github-05122A?style=plastic&logo=github)
 
 ![Fastlane](https://img.shields.io/badge/-Fastlane-05122A?style=plastic&logo=fastlane)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=plastic&logo=jenkins)
@@ -21,20 +22,15 @@
 
 
 ## &#x1f4c8; GitHub Stats
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kannanprasad87&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" />
+</p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kannanprasad87&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+<h3 align="center">Find me on</h3>
+<p align="center">
+<a href="https://github.com/kannanprasad87" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Kannan Prasad-05122A?style=plastic&logo=github"/></a>
+<a href="https://www.linkedin.com/in/kannanprasad" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Kannan Prasad-05122A?&style=plastic&logo=linkedin" /></a>
+<a href="https://stackoverflow.com/users/591843/kannan-prasad" target="_blnk"><img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=591843" /></a> 
+</p>
 
-<!--
-**kannanprasad87/kannanprasad87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=kannanprasad87)
