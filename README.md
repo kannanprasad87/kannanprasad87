@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Bonjour ! Hi ! Hola !  
 
-Myself Kannan Prasad - iOS advocate from 🇮🇳 currently working in 🇬🇧 
+Myself Kannan Prasad - iOS advocate from 🇮🇳 currently working with HSBC UK
 
 ###  🛠 &nbsp;Tech Stack
 
